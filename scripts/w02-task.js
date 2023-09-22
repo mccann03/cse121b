@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = "Dylan McCann";
 let currentYear = "2023";
-let profilePicture = "images\MyPicture.png";
+let profilePicture = "images/MyPicture.png";
 
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById('name');
