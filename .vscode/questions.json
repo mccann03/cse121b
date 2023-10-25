@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What was the name of the most destructive hurricane on record",
+        "A": "Okeechobee",
+        "B": "Ivan",
+        "C": "Galvston",
+        "D": "Rita",
+        "answer": "C"
+    },
+    {
+        "question": "Who was the last Roman Emperor?",
+        "A": "Ceasar Augustus",
+        "B": "Constatine I",
+        "C": "Julius Ceasar",
+        "D": "Romulus Augustulus",
+        "answer": "D"
+    },
+    {
+        "question":"Which is the most venomous mammal on earth?",
+        "A": "Platypus",
+        "B": "Slow Loris",
+        "C": "Short-Tailed Shrew",
+        "D": "European Mole",
+        "answer": "A"
+    },
+    {
+        "question":"What is th name of a shape with 10,000 sides called?",
+        "A": "Megagon",
+        "B": "Hectogon",
+        "C": "Gigagon",
+        "D": "Myriagon",
+        "answer": "D"
+    },
+    {
+        "question": "What was the name of the world's first video game?",
+        "A": "Two for Tennis",
+        "B": "Asteroids",
+        "C": "Pong",
+        "D": "Pac-Man",
+        "answer": "A"
+    }
+]
